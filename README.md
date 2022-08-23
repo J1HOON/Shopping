@@ -20,5 +20,7 @@
 ##
 ### 값을 받아 넘길 경우 인코딩을 UTF-8로 변경 후 데이터베이스에 넘기는 코드
 ![image](https://user-images.githubusercontent.com/102014376/186084338-0ba248ac-6452-4327-9fe3-0194b7b5ef67.png)
+### 넘긴 데이터는 member_tbl_02로 넘어감
 
+##
 
