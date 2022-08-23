@@ -10,6 +10,9 @@
 
 ### 받은 값이 NULL일 경우 나오는 경고 박스
 ![image](https://user-images.githubusercontent.com/102014376/186084296-880f9133-0dd8-404e-b88c-64e8830bdbfa.png)
+### ex) 가입일자를 기입하지 않을경우 나오는 경고 박스
+![image](https://user-images.githubusercontent.com/102014376/186084625-da1b92ec-a55f-4e8b-a07e-053e348ab6da.png)
+
 
 ### 값을 받아 넘길 경우 인코딩을 UTF-8로 변경 후 데이터베이스에 넘기는 코드
 ![image](https://user-images.githubusercontent.com/102014376/186084338-0ba248ac-6452-4327-9fe3-0194b7b5ef67.png)
