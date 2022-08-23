@@ -4,6 +4,8 @@
 
 ## 회원등록 화면
 ![image](https://user-images.githubusercontent.com/102014376/186064553-bdc06db3-9809-4595-b885-1a9b2f5e557c.png)
+### 등록을 했을경우 들어가는 데이터베이스
+![image](https://user-images.githubusercontent.com/102014376/186084916-dd955373-9566-402f-b755-c94fcfc3e078.png)
 
 ### 회원등록의 텍스트 박스와 버튼을 구성하는 코드
 ![image](https://user-images.githubusercontent.com/102014376/186083983-83097fb5-6938-47d4-9733-38f630626558.png)
