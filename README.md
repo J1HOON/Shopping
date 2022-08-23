@@ -14,6 +14,7 @@
 ##
 ### DB를 연결하는 자바CLASS로 연결에 성공했을 시 DBTEST라는 문구가 출력
 ![image](https://user-images.githubusercontent.com/102014376/186093323-8fb20818-c708-4663-9798-6160c12b1314.png)
+![image](https://user-images.githubusercontent.com/102014376/186093568-03f1ee34-5953-4ccb-a528-b7450ad66133.png)
 
 ##
 
