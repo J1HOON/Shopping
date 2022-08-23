@@ -1,3 +1,5 @@
 # Shopping
+## 기본 웹화면
+![image](https://user-images.githubusercontent.com/102014376/186064407-795edd45-9209-466c-8bc3-c65253cc5116.png)
 
-![image](https://user-images.githubusercontent.com/102014376/186064339-02cc8198-a040-49ce-bc13-048ef19dce51.png)
+
