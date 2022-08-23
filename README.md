@@ -12,6 +12,11 @@
 ![image](https://user-images.githubusercontent.com/102014376/186083983-83097fb5-6938-47d4-9733-38f630626558.png)
 
 ##
+### DB를 연결하는 자바CLASS로 연결에 성공했을 시 DBTEST라는 문구가 출력
+![image](https://user-images.githubusercontent.com/102014376/186093323-8fb20818-c708-4663-9798-6160c12b1314.png)
+
+##
+
 ### 받은 값이 NULL일 경우 나오는 경고 박스
 ![image](https://user-images.githubusercontent.com/102014376/186084296-880f9133-0dd8-404e-b88c-64e8830bdbfa.png)
 ### ex) 가입일자를 기입하지 않을경우 나오는 경고 박스
