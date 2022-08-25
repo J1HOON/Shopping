@@ -3,6 +3,10 @@
 ## 회원목록조회를 눌렀을 시 나오는 화면
 ![image](https://user-images.githubusercontent.com/102014376/186557754-ba4ae278-3e63-4061-8131-396607116e6f.png)
 
+![image](https://user-images.githubusercontent.com/102014376/186582449-80f4e8be-06fc-42fb-8184-10acf8ecaa17.png)
+### nav에 member_list 링크 넣어줌
+
+
 ## DB연결문
 ![image](https://user-images.githubusercontent.com/102014376/186558444-c12d2116-3821-402d-82ce-6828f7ca128a.png)
 
