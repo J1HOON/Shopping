@@ -19,6 +19,7 @@
 ##
 
 ### 받은 값이 NULL일 경우 나오는 경고 박스
+### 빈칸이 있을경우 빈칸에 커서를 잡아 바로 입력할 수 있게 해줌.
 ![image](https://user-images.githubusercontent.com/102014376/186084296-880f9133-0dd8-404e-b88c-64e8830bdbfa.png)
 ### ex) 가입일자를 기입하지 않을경우 나오는 경고 박스
 ![image](https://user-images.githubusercontent.com/102014376/186084625-da1b92ec-a55f-4e8b-a07e-053e348ab6da.png)
