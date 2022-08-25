@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/102014376/186578304-f01b1d68-0672-462d-882e-9df4005709bc.png)
 
 ## 테이블에 넣기
-![image](https://user-images.githubusercontent.com/102014376/186580001-7968578b-b561-4488-bd38-84e238079bba.png)
+![image](https://user-images.githubusercontent.com/102014376/186586225-56011030-fd10-4615-9ac1-f2a49070e4ca.png)
 ### 반복을 통해서 rs에서 나온 값을 테이블에 넣어줌
 ### 이때 나온 값을 String으로 변환 후 넣음
 ![image](https://user-images.githubusercontent.com/102014376/186580011-a8f92f39-c1f7-42c3-9061-337227c5a8bb.png)
