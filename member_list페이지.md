@@ -16,7 +16,7 @@
 
 ## 테이블에 넣기
 ![image](https://user-images.githubusercontent.com/102014376/186580001-7968578b-b561-4488-bd38-84e238079bba.png)
-### 반복을 통해서 member_tbl의 정보를 넣어줌
+### 반복을 통해서 rs에서 검색된 member_tbl의 정보를 문자열로 바꿔 넣음
 
 
 
